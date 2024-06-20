@@ -1,0 +1,5 @@
+G:\Projects\C#\Console Applications\Flashcards\obj\Debug\net5.0\Flashcards.csproj.AssemblyReference.cache
+G:\Projects\C#\Console Applications\Flashcards\obj\Debug\net5.0\Flashcards.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\C#\Console Applications\Flashcards\obj\Debug\net5.0\Flashcards.AssemblyInfoInputs.cache
+G:\Projects\C#\Console Applications\Flashcards\obj\Debug\net5.0\Flashcards.AssemblyInfo.cs
+G:\Projects\C#\Console Applications\Flashcards\obj\Debug\net5.0\Flashcards.csproj.CoreCompileInputs.cache

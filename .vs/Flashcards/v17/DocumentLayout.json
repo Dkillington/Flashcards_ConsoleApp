@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Projects\\C#\\Console Applications\\Flashcards\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD63349-DECF-4C44-80DD-17BBD87D3CD6}|Flashcards.csproj|g:\\projects\\c#\\console applications\\flashcards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD63349-DECF-4C44-80DD-17BBD87D3CD6}|Flashcards.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD63349-DECF-4C44-80DD-17BBD87D3CD6}|Flashcards.csproj|G:\\Projects\\C#\\Console Applications\\Flashcards\\carddeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD63349-DECF-4C44-80DD-17BBD87D3CD6}|Flashcards.csproj|solutionrelative:carddeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD63349-DECF-4C44-80DD-17BBD87D3CD6}|Flashcards.csproj|G:\\Projects\\C#\\Console Applications\\Flashcards\\flashcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD63349-DECF-4C44-80DD-17BBD87D3CD6}|Flashcards.csproj|solutionrelative:flashcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardDeck.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Console Applications\\Flashcards\\CardDeck.cs",
+              "RelativeDocumentMoniker": "CardDeck.cs",
+              "ToolTip": "G:\\Projects\\C#\\Console Applications\\Flashcards\\CardDeck.cs",
+              "RelativeToolTip": "CardDeck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T23:47:43.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Flashcard.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Console Applications\\Flashcards\\Flashcard.cs",
+              "RelativeDocumentMoniker": "Flashcard.cs",
+              "ToolTip": "G:\\Projects\\C#\\Console Applications\\Flashcards\\Flashcard.cs",
+              "RelativeToolTip": "Flashcard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:04:07.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Console Applications\\Flashcards\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\Projects\\C#\\Console Applications\\Flashcards\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:37:15.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

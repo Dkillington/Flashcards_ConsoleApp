@@ -1,0 +1,48 @@
+D:\David (MAIN)\C# Projects\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.exe
+D:\David (MAIN)\C# Projects\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.deps.json
+D:\David (MAIN)\C# Projects\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.runtimeconfig.json
+D:\David (MAIN)\C# Projects\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.runtimeconfig.dev.json
+D:\David (MAIN)\C# Projects\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.dll
+D:\David (MAIN)\C# Projects\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.pdb
+D:\David (MAIN)\C# Projects\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.csprojAssemblyReference.cache
+D:\David (MAIN)\C# Projects\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.csproj.CoreCompileInputs.cache
+D:\David (MAIN)\C# Projects\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.AssemblyInfoInputs.cache
+D:\David (MAIN)\C# Projects\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.AssemblyInfo.cs
+D:\David (MAIN)\C# Projects\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.dll
+D:\David (MAIN)\C# Projects\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.pdb
+D:\David (MAIN)\C# Projects\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.genruntimeconfig.cache
+C:\C# Projects\C# Projects\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.exe
+C:\C# Projects\C# Projects\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.deps.json
+C:\C# Projects\C# Projects\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.runtimeconfig.json
+C:\C# Projects\C# Projects\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.runtimeconfig.dev.json
+C:\C# Projects\C# Projects\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.dll
+C:\C# Projects\C# Projects\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.pdb
+C:\C# Projects\C# Projects\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.csproj.AssemblyReference.cache
+C:\C# Projects\C# Projects\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\C# Projects\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.AssemblyInfoInputs.cache
+C:\C# Projects\C# Projects\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.AssemblyInfo.cs
+C:\C# Projects\C# Projects\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.csproj.CoreCompileInputs.cache
+C:\C# Projects\C# Projects\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.dll
+C:\C# Projects\C# Projects\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.pdb
+C:\C# Projects\C# Projects\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.genruntimeconfig.cache
+C:\Projects\C#\Console Applications\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.exe
+C:\Projects\C#\Console Applications\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.deps.json
+C:\Projects\C#\Console Applications\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.runtimeconfig.json
+C:\Projects\C#\Console Applications\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.runtimeconfig.dev.json
+C:\Projects\C#\Console Applications\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.dll
+C:\Projects\C#\Console Applications\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.pdb
+C:\Projects\C#\Console Applications\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.csproj.AssemblyReference.cache
+C:\Projects\C#\Console Applications\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\Console Applications\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.AssemblyInfoInputs.cache
+C:\Projects\C#\Console Applications\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.AssemblyInfo.cs
+C:\Projects\C#\Console Applications\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.csproj.CoreCompileInputs.cache
+C:\Projects\C#\Console Applications\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.dll
+C:\Projects\C#\Console Applications\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.pdb
+C:\Projects\C#\Console Applications\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.genruntimeconfig.cache
+G:\Projects\C#\Console Applications\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.csproj.AssemblyReference.cache
+G:\Projects\C#\Console Applications\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\C#\Console Applications\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.AssemblyInfoInputs.cache
+G:\Projects\C#\Console Applications\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.AssemblyInfo.cs
+G:\Projects\C#\Console Applications\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.csproj.CoreCompileInputs.cache
+G:\Projects\C#\Console Applications\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.dll
+G:\Projects\C#\Console Applications\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.pdb
